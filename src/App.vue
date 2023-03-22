@@ -12,9 +12,9 @@ export default {
 </script>
 <!-- // Import components -->
 
+<!-- Final page -->
 <template>
     <AppTitle></AppTitle>
     <AppHero></AppHero>
 </template>
-
-<style scoped></style>
+<!-- // Final page -->
